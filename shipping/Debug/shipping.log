@@ -1,0 +1,5 @@
+﻿  shipping.cpp
+D:\SITT\sdr_shipping\shipping\shipping\shipping.cpp(71,9): warning C4101: 'index': unreferenced local variable
+D:\SITT\sdr_shipping\shipping\shipping\shipping.cpp(456,10): warning C4101: 'arrayn': unreferenced local variable
+D:\SITT\sdr_shipping\shipping\shipping\shipping.cpp(457,11): warning C4101: 'w': unreferenced local variable
+  shipping.vcxproj -> D:\SITT\sdr_shipping\shipping\Debug\shipping.exe
